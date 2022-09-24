@@ -36,4 +36,4 @@ Ejecutar el **Instalador** y seguir los pasos.
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (GNU GENERAL PUBLIC LICENSE) en el archivo [LICENSE.md ](LICENSE.md) para más detalles
+Este proyecto está bajo la Licencia (GNU GENERAL PUBLIC LICENSE) en el archivo LICENSE.md.
